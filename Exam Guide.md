@@ -108,13 +108,33 @@
 ## 🔍 Mark Scheme 黑话表（物理版）
 
 > ⚠️ **物理和 CS 不一样！** 物理 mark scheme 里 **`NE` 根本不出现**，`TV` 和 `BOD` 也很少见。
-> 物理真正高频的是 **`ecf`**（450 次）、**`ignore`**（369 次）、**`any two from`**（180 次）、**`ORA`**（74 次）。
+> 物理真正高频的是 **`ignore`**（369 次）、**`any two from`**（180 次）、**`ORA`**（74 次）。
+
+### 先说清楚 ecf 的特殊地位 —— 别被次数误导
+
+`ecf` 全库出现 **450 次**，是物理最高频的词 —— **但它不是一个"逐题标注的代码"，而是一条贯穿全卷的判分原则。**
+
+| 它出现在哪里 | 次数 |
+|---|---|
+| MS 前言第 4 条（每份 MS 都有，样板句） | 164 |
+| MS 末尾的「Annotations guidance for centres」批注表 | 约 270 |
+| **真正写在某道题答案行里的** | **仅 17 处，且全部在 Paper 6** |
+
+> **MS 原文（前言第 4 条）**：
+> *"The error carried forward (ecf) principle **should be applied, where appropriate**. If an incorrect answer is subsequently used in a scientifically correct way, the candidate **should be awarded these subsequent marking points**."*
+>
+> **MS 原文（Use of ecf）**：
+> *"The mark scheme notes where ecf is applicable, in the guidance section of the final answer mark. However, **it should be applied for all relevant C marks as well. Always annotate ecf if applied.**"*
+>
+> **MS 原文（批注表定义）**：`ecf [question part]` — *"Indicates that a candidate using an erroneous value from the stated question part **must** be given credit here if the erroneous value is used correctly here."*
+
+📌 **这意味着判分比"逐题标注"更宽松**：不需要题目旁边写了 `ecf` 才给分 —— 前言说它"where appropriate"就适用，而且明文要求**所有相关的 C 分都要一起考虑**。
 
 ### ① 高频判分语言（决定你拿不拿到分）
 
 | 速记 | 全称 | 意思 | 出现次数 |
 |---|---|---|---|
-| **ecf** | error carried forward | **前面算错，后面跟着错也给分** —— 这是物理最大的救命符！ | **450** |
+| **ecf** | error carried forward | **前面算错，后面跟着错也给分** —— 这是物理最大的救命符！见上方的专门说明 | **450**（含大量样板文本） |
 | **ignore** | — | **写多了不扣分**（但也不给分） | 369 |
 | **any two from** | — | 给分点比总分多，**任选 N 个**即可 | 180 |
 | **any three from** | — | 同上，N=3 | 84 |

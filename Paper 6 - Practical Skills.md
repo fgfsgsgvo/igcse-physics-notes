@@ -1270,4 +1270,4 @@ Q4 永远是 7 分的"设计实验"题 = 全卷 17.5%
 
 ---
 
-**返回**：[Exam Guide 总纲](Exam Guide.md) | **索引**：[README](README.md) | **单元**：[Unit 1](Unit 1 - Motion, forces and energy.md) · [Unit 2](Unit 2 - Thermal physics.md) · [Unit 3](Unit 3 - Waves.md)
+**返回**：[Exam Guide 总纲](Exam Guide.md) | **索引**：[README](README.md) | **单元**：[Unit 1](Unit 1 - Motion, forces and energy.md) · [Unit 2](Unit 2 - Thermal physics.md) · [Unit 3](Unit 3 - Waves.md) · [Unit 4](Unit 4 - Electricity and magnetism.md)

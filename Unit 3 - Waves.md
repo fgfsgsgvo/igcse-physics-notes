@@ -1385,4 +1385,4 @@ u < f    → 放大、正立、虚像（放大镜）
 
 ---
 
-**上一单元**：[Unit 2 — Thermal Physics](Unit 2 - Thermal physics.md) | **下一单元**：Unit 4 — Electricity and Magnetism（**尚未撰写**，见 [README 的考频权重表](README.md#-考频权重表)） | **索引**：[README](README.md)
+**上一单元**：[Unit 2 — Thermal Physics](Unit 2 - Thermal physics.md) | **下一单元**：[Unit 4 — Electricity and Magnetism](Unit 4 - Electricity and magnetism.md) | **索引**：[README](README.md)

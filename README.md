@@ -15,7 +15,7 @@
 | [Unit 2 - Thermal physics.md](Unit 2 - Thermal physics.md) | 考纲 §2.1–2.3 | 65 KB | ✅ |
 | [Unit 3 - Waves.md](Unit 3 - Waves.md) | 考纲 §3.1–3.4 | 84 KB | ✅ |
 | [Paper 6 - Practical Skills.md](Paper 6 - Practical Skills.md) | 实验卷专题（100% AO3） | 87 KB | ✅ |
-| Unit 4 — Electricity and Magnetism | 考纲 §4.1–4.5 | — | ⬜ **未做** |
+| [Unit 4 - Electricity and magnetism.md](Unit 4 - Electricity and magnetism.md) | 考纲 §4.1–4.5 | 167 KB | ✅ |
 | Unit 5 — Nuclear Physics | 考纲 §5.1–5.2 | — | ⬜ **未做** |
 | Unit 6 — Space Physics | 考纲 §6.1–6.2 | — | ⬜ **未做** |
 
@@ -27,6 +27,8 @@
 | `topic1-motion-forces-energy.md` | Topic 1 的 MS / ER 原文挖掘 |
 | `topic2-thermal-physics.md` | Topic 2 的 MS / ER 原文挖掘 |
 | `topic3-waves.md` | Topic 3 的 MS / ER 原文挖掘 |
+| `topic4.1-4.2-magnetism-electrical-quantities.md` | Topic 4.1–4.2 的 MS / ER 原文挖掘（磁学、静电、电流、e.m.f./p.d.、电阻、功率） |
+| `topic4.3-4.5-circuits-safety-em-effects.md` | Topic 4.3–4.5 的 MS / ER 原文挖掘（电路、用电安全、电磁效应） |
 | `paper6-practical-skills.md` | Paper 6 全量挖掘（43 份 QP + 40 份 MS） |
 | **`paper4-marks-by-topic.md`** | **85 份 Paper 3/4 按考纲主题的分值统计**（本页权重表的来源） |
 
@@ -232,7 +234,7 @@
 | **C** | Compensatory（补偿分，允许后续步骤自洽） |
 | **A** | Answer（最终答案分，**含单位**） |
 | **B** | Independent（独立分） |
-| **ecf** | Error carried forward（**物理 MS 里出现频率最高，约 450 次**） |
+| **ecf** | Error carried forward（全库 450 次，**但绝大部分是 MS 前言样板句和批注表**；它是一条**贯穿全卷的原则**而非逐题标注 —— 详见 [Exam Guide](Exam Guide.md#先说清楚-ecf-的特殊地位--别被次数误导)） |
 | **ignore** | 多写不扣分（369 次） |
 | **any two from** | 任答两点即给分（180 次） |
 | **ORA** | Or reverse argument（74 次） |
